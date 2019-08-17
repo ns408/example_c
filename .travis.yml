@@ -1,3 +1,7 @@
-language: osx
+language: c
+os: osx
 compiler:
   - clang
+  - gcc
+install: clang example.c -o example_c
+script: ./example_c
