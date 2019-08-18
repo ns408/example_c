@@ -2,6 +2,6 @@
 
 int main(void)
 {
-  printf("Hi there..\n");
+  printf("\nWhat's up?\n-_-\n\n");
   return 0;
 }

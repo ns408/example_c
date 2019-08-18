@@ -6,5 +6,5 @@ Example repository containing C language code
 ## compile the program
 
 ```shell
-clang program.c -o program
+clang example_c_language.c -o example_c_language
 ```
