@@ -3,5 +3,5 @@ os: osx
 compiler:
   - clang
   - gcc
-install: clang example.c -o example_c
-script: ./example_c
+install: clang example_c_language.c -o example_c_language
+script: ./example_c_language
